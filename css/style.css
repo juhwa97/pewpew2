@@ -33,6 +33,9 @@ body {
     overflow-x: hidden;
     overflow-y: auto;
 }
+.wrap {
+    min-width: 1400px;
+}
 
 .header_wrap {
     background-color: black;
